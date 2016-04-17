@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/vergiliu/react/issues"
   },
-  "homepage": "https://github.com/vergiliu/react#readme"
+  "homepage": "https://github.com/vergiliu/react#readme",
+  "dependencies": {
+    "jquery": "^2.2.3"
+  }
 }
